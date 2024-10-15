@@ -19,7 +19,7 @@
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tanvirdiu200@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvir-ahamed261)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/tanvir_ahamed_286)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/tanvir_ahmed_286)
 
 # 💻 Tech Stack:
 
