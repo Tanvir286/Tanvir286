@@ -9,7 +9,7 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedshantodev&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedshantodev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tanvir286&label=Profile%20views&color=0e75b6&style=flat" alt="Tanvir286" /> </p>
 
 - 🌱 Currently learning **NextJS and TypeScript**
 - 🔍 Looking for chances to work together on open-source projects.
