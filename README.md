@@ -10,7 +10,7 @@
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tanvir286&label=Profile%20views&color=0e75b6&style=flat" alt="Tanvir286" /> </p>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 - 🌱 Currently learning **NextJS and TypeScript**
 - 🔍 Looking for chances to work together on open-source projects.
 - 📫 How to reach me **tanvirahamed1943@gmail.com**
