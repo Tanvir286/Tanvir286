@@ -55,21 +55,17 @@
 ![GithubPages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-#### Others:
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilatahar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sahilatahar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanvir286&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Tanvir286" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilatahar&show_icons=true&locale=en&theme=tokyonight" alt="sahilatahar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tanvir286&show_icons=true&locale=en&theme=tokyonight" alt="Tanvir286" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilatahar&theme=tokyonight" alt="sahilatahar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir286&theme=tokyonight" alt="Tanvir286" /></p>
 
 <br>
 
 ### Profile Visit Count
 
-<img src="https://profile-counter.glitch.me/sahilatahar/count.svg" alt=""/>
+<img src="https://profile-counter.glitch.me/Tanvir286/count.svg" alt=""/>
