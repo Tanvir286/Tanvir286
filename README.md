@@ -9,6 +9,8 @@
 
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedshantodev&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedshantodev" /> </p>
+
 - 🌱 Currently learning **NextJS and TypeScript**
 - 🔍 Looking for chances to work together on open-source projects.
 
