@@ -13,7 +13,7 @@
 
 - 🌱 Currently learning **NextJS and TypeScript**
 - 🔍 Looking for chances to work together on open-source projects.
-- 📫 How to reach me **tanvirahamed1943@gmail.com**
+
 - 🔭 I’m currently working on [Multi Vendor Ecommerce](https:///)
 
 ## 🌐 Socials:
