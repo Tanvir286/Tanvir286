@@ -19,6 +19,8 @@
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tanvirdiu200@gmail.com)
 
+[![Portfolio](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tanvirdiu200@gmail.com)
+
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/tanvir_ahmed_286)
 
 # 💻 Tech Stack:
